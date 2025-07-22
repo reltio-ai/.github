@@ -20,22 +20,7 @@ Reltio’s implementation of MCP lets agents interact with enterprise master dat
 
 ---
 
-## 🚀 The Reltio MCP Server
+## Repositories
 
-### 🧪 MCP Developer Edition (You're here!)
-This open-source edition is perfect for developers, AI hackers, and partners who want to:
-
-- Experiment with AI agents using real Reltio environments
-- Build and test new tools with MCP-compatible clients
-- Extend the server to add custom logic or tools
-- Self-host locally or in your cloud
-
-🔗 **Get started now:**  
-👉 [Reltio MCP Server - Developer Edition](https://github.com/reltio-ai/reltio-mcp-server)
-
-📚 Full setup in minutes:  
-```bash
-git clone https://github.com/reltio-ai/reltio-mcp-server.git
-cd reltio-mcp-server
-cp .env.sample .env  # Add your Reltio client credentials
-bash setup.sh        # Mac/Linux OR setup.bat for Windows
+- [Reltio MCP Server - Developer Edition](https://github.com/reltio-ai/reltio-mcp-server)
+- [Reltio AgentFlow MCP Server - Strands Client](https://github.com/reltio-ai/reltio-mcp-strands-client)
