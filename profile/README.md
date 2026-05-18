@@ -1,17 +1,8 @@
-<h1 align="center">
-  <img src="https://www.reltio.com/wp-content/uploads/2023/01/reltio-logo.svg" alt="Reltio" height="48" /><br/>
-  Reltio AI
-</h1>
+# Reltio AI
 
-<p align="center">
-  <strong>The future is agentic AI. The foundation is Reltio.</strong>
-</p>
+> The future is agentic AI. The foundation is Reltio.
 
-<p align="center">
-  <a href="https://www.reltio.com/platform/agentflow/">AgentFlow™</a> &nbsp;·&nbsp;
-  <a href="https://www.reltio.com">Context Intelligence Platform</a> &nbsp;·&nbsp;
-  <a href="https://docs.reltio.com">Documentation</a>
-</p>
+[AgentFlow™](https://www.reltio.com/platform/agentflow/) · [Context Intelligence Platform](https://www.reltio.com) · [Documentation](https://docs.reltio.com)
 
 ---
 
