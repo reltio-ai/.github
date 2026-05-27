@@ -1,26 +1,51 @@
-# 👋 Welcome to Reltio AI
+# Reltio AI
 
-We’re building the foundation for **agentic AI** in the enterprise — where intelligent agents can take action on trusted, real-time data using secure, standardized interfaces.
+> The future is agentic AI. The foundation is Reltio.
 
-## ⚙️ What is AgentFlow?
-
-**AgentFlow** is Reltio’s next-generation Agentic AI platform, combining secure, real-time data from Reltio’s Intelligent Data Graph with autonomous and interactive AI agents.
-
-It enables a new class of digital workers (resolvers, enrichers, verifiers, etc.) that can perform complex data stewardship operations with minimal human input — all while ensuring strict governance, traceability, and compliance.
-
-AgentFlow is powered by **Model Context Protocol (MCP)**.
-
+[Reltio Context Intelligence Platform™](https://www.reltio.com) · [Reltio AgentFlow™](https://www.reltio.com/platform/agentflow/)
 ---
 
-## 🔌 What is the Model Context Protocol (MCP)?
+## What we build
 
-MCP is an **open standard** that allows AI agents (LLMs, orchestrators, or tools like Claude, LangChain, CrewAI) to discover and invoke secure APIs — called “tools” — in a structured and semantically rich way.
+The **Reltio Context Intelligence Platform** powers agentic AI in the enterprise. Our open-source repositories give developers, partners, and customers the tools to connect AI agents to trusted, real-time master data — securely and at scale.
 
-Reltio’s implementation of MCP lets agents interact with enterprise master data (search, match, merge, enrich, etc.) without needing custom APIs or unsafe exports.
+**[Reltio AgentFlow](https://www.reltio.com/platform/agentflow/)** is Reltio's agentic intelligence platform. It enables AI agents — including the Match Resolver and Product Recommender — to act on high-quality, governed enterprise data using the **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)**: an open standard for structured, semantically rich agent-to-API communication.
 
 ---
 
 ## Repositories
 
-- [Reltio MCP Server - Developer Edition](https://github.com/reltio-ai/reltio-mcp-server)
-- [Reltio AgentFlow MCP Server - Strands Client](https://github.com/reltio-ai/reltio-mcp-strands-client)
+### AgentFlow & MCP
+
+| Repository | Description |
+|---|---|
+| [reltio-mcp-server](https://github.com/reltio-ai/reltio-mcp-server) | Reltio MCP Server — connect any MCP-compatible AI agent to the Reltio platform |
+| [reltio-mcp-strands-client](https://github.com/reltio-ai/reltio-mcp-strands-client) | Sample Python client for connecting Strands AI agents to the Reltio AgentFlow MCP Server with OAuth 2.0 authentication |
+
+### AI-Ready Resources
+
+| Repository | Description |
+|---|---|
+| [reltio-ai-ready-docs](https://github.com/reltio-ai/reltio-ai-ready-docs) | Reltio's complete product documentation corpus as structured Markdown — optimized for AI consumption, no authentication required |
+| [reltio-ai-ready-howtos](https://github.com/reltio-ai/reltio-ai-ready-howtos) | Hands-on HOWTO guides for the Reltio platform, grounded in official Reltio documentation |
+
+### Developer SDKs & Samples
+
+| Repository | Description |
+|---|---|
+| [workflow](https://github.com/reltio-ai/workflow) | Reltio Workflow SDK — source code and core libraries for building custom workflow integrations |
+| [samples-custom-workflow](https://github.com/reltio-ai/samples-custom-workflow) | Example implementations of custom workflows for common Reltio business use cases |
+
+---
+
+## Get started
+
+- **[Try the MCP Server](https://github.com/reltio-ai/reltio-mcp-server)** — the fastest path from AI agent to Reltio data
+- **[Read the docs](https://docs.reltio.com)** — official Reltio product documentation
+- **[Request a demo](https://www.reltio.com/request-a-demo/)** — see Reltio AgentFlow in action
+
+---
+
+<p align="center">
+  <sub>Built by the Reltio team · <a href="https://www.reltio.com">reltio.com</a></sub>
+</p>
